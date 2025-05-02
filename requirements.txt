@@ -1,3 +1,5 @@
 langchain
 langchain-ollama
 transformers
+lanchain-tavily
+langchain_community
